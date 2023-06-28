@@ -19,8 +19,8 @@ Currently, the infrastructure of charging stations in India is not meeting the r
 
 1. Clone the repo.
 ```sh
-git clone https://github.com/sanchi-t/AirEv
-cd AirEv
+git clone https://github.com/Mr-Aman26/Airev.git
+cd Airev
 ```
 2. Install all the dependecies.
 ```sh
